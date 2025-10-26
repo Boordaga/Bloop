@@ -1,0 +1,20 @@
+# Bloop private and system files
+.env
+__pycache__/
+*.pyc
+*.log
+*.key
+*.pem
+*.crt
+*.json
+*.wav
+*.zip
+*.img
+*.tar.gz
+config.json
+auth_keys.txt
+
+# System / OS directories
+/etc/
+.ssh/
+.bash_history
